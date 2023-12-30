@@ -1,7 +1,7 @@
 # immunopipe-MahuronKM-2020
 
 
-Reanalysis of the scRNA-seq and scTCR-seq data from [Liu, B., et al. 2022](https://rupress.org/jem/article/217/9/e20192080/151858/Layilin-augments-integrin-activation-to-promote) using [immunopipe](https://github.com/pwwang/immunopipe).
+Reanalysis of the scRNA-seq and scTCR-seq data from [Mahuron, Kelly M., et al. 2020](https://rupress.org/jem/article/217/9/e20192080/151858/Layilin-augments-integrin-activation-to-promote) using [immunopipe](https://github.com/pwwang/immunopipe).
 
 > [Mahuron, Kelly M., et al. "Layilin augments integrin activation to promote antitumor immunity." Journal of Experimental Medicine 217.9 (2020).](https://rupress.org/jem/article/217/9/e20192080/151858/Layilin-augments-integrin-activation-to-promote)
 >
