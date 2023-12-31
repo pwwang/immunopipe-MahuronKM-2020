@@ -14,7 +14,7 @@ See `prepare-data.sh` for details.
 
 ## Configuration
 
-> [!CAUTION]
+> [!NOTE]
 > This is not a replication of the original paper. We only selected 2 samples with paired scRNA-seq and scTCR-seq data available.
 >
 
