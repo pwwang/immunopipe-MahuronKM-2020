@@ -1,0 +1,4 @@
+Sample	passed	failed	total
+K409_LN	6511	0	6511
+K409_tumor	2337	0	2337
+All_Samples	8848	0	8848

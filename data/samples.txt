@@ -1,0 +1,3 @@
+Sample	Patient	Tissue	RNAData	TCRData
+K409_LN	K409	LN	prepared-data/K409_LN	prepared-data/K409_LN
+K409_tumor	K409	tumor	prepared-data/K409_tumor	prepared-data/K409_tumor
